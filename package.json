@@ -1,0 +1,26 @@
+{
+  "name": "kareen-bot",
+  "version": "1.0.0",
+  "description": "FB messenger bot with API.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelea2/kareen-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelea2/kareen-bot/issues"
+  },
+  "homepage": "https://github.com/lelea2/kareen-bot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12",
+    "request": "^2.83.0"
+  }
+}
